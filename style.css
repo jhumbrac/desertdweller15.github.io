@@ -1,15 +1,13 @@
- body { 
-     background-color: red;
+body { 
+ background-color: #880000;
+ color:#ffffff;
+ font-family:helvetica, arial, sans-serif;
+ font-size:16px;
 }
-
- title { 
-     background-color: yellow;
+h1, p { 
+ background-color: orange;
 }
-
- h1 { 
-     background-color: orange;
-}
- 
-  p { 
-     background-color: orange;
+h1 {
+ font-size:3em;
+ font-family:georgia, serif;
 }
