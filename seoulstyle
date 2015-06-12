@@ -1,8 +1,7 @@
 body { 
- background-color: #91B5FF
-color:#fff;
- font-family:helvetica, arial, sans-serif;
- font-size:15px;
+ background-color: #91B5FF;
+font-family:helvetica, arial, sans-serif;
+font-size:15px;
 }
 h1{
 text-align: center;
