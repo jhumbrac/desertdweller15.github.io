@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Seoul Food</title>
+<link rel="stylesheet" type="text/css" href="seoulstyle.css">
+</head> 
+<body>
+	<h1>Seoul Food</h1>
+	<i>Ain't your mama's average cook'n!</i>
+	<br>
+	<hr>
+	<h2>Feed your Seoul...</h2>
+	<p>Welcome to Seoul Food resturant. We are located in downtown Phoenix, Arizona. With high quality cheifs, an explosion of culutre and the ability to quench your taste for eastern Asain cuisine.</p>
+	<br>
+	<br>
+	<i>This resturant supports the airline Korean Air!</i>
+	<a href="https://www.youtube.com/watch?v=owERlBLSJVw"></a>
+	<img src="http://www.mapsofworld.com/flags/images/world-flags/Republic-of-korea-flag.jpg" style="width:60px;height:100px;">
+</body>
+</html>
