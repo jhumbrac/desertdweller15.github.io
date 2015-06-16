@@ -10,13 +10,48 @@ body {
 	font-size:20px;
 }
 nav a {
-	background-color: #FFFFFF;
+	color: rgba(248, 248, 248,.5);
 	border-style: solid;
 	border-color: #000000;
-	border-width: 2px;
+	border-width: 5px;
+	font-family:helvetica, arial, sans-serif;
+	font-size:7em;
+	
 }
 
 h1 {
-	font-size:3em;
+	background-color: #FFF;
+	font-size:7em;
 	font-family:georgia, serif;
 }
+p {
+	background-color: #FFF;
+	margin:1;
+	font-size:5em;
+	font-family:georgia, serif;
+}
+br{
+	background-color: #FFF;
+
+}
+h2{
+	background-color: #FFF;
+	margin:1;
+	font-size:5em;
+	font-family:georgia, serif;
+}
+div {
+	background-color: #FFF;
+	height:10;
+	width:10;
+	text-align:left;
+}
+figure{
+	background-color: #FFF;
+	height:10;
+	width:10;
+	text-align:right;
+}
+section{
+	background-color: #FFF;
+} 
