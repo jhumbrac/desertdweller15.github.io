@@ -21,13 +21,13 @@ nav a {
 
 h1 {
 	background-color: #FFF;
-	font-size:7em;
+	font-size:5em;
 	font-family:georgia, serif;
 }
 p {
 	background-color: #FFF;
 	margin:1;
-	font-size:5em;
+	font-size:4em;
 	font-family:georgia, serif;
 }
 br{
@@ -37,7 +37,7 @@ br{
 h2{
 	background-color: #FFF;
 	margin:1;
-	font-size:5em;
+	font-size:3em;
 	font-family:georgia, serif;
 }
 div {
