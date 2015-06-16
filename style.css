@@ -13,21 +13,21 @@ nav a {
 	color: rgba(248, 248, 248,.5);
 	border-style: solid;
 	border-color: #000000;
-	border-width: 5px;
+	border-width: 10px;
 	font-family:helvetica, arial, sans-serif;
-	font-size:5em;
+	font-size:4em;
 	
 }
 
 h1 {
 	background-color: #FFF;
-	font-size:4em;
+	font-size:3em;
 	font-family:georgia, serif;
 }
 p {
 	background-color: #FFF;
 	margin:1;
-	font-size:3em;
+	font-size:2em;
 	font-family:georgia, serif;
 }
 br{
