@@ -9,7 +9,7 @@ body {
 	background-color: #921414;
 	color:#333;
 	font-family:helvetica, arial, sans-serif;
-	font-size:20px;
+	font-size:18px;
 }
 nav a {
 	color: rgba(248, 248, 248,.5);
@@ -29,7 +29,7 @@ h1{
 p {
 	background-color: #FFF;
 	margin:1;
-	font-size:3em;
+	font-size:2em;
 	font-family: 'Lekton', sans-serif;
 }
 br{
@@ -39,13 +39,13 @@ br{
 h2{
 	background-color: #FFF;
 	margin:1;
-	font-size:3em;
+	font-size:2em;
 	font-family: 'Volkhov', serif;
 }
 div {
 	background-color: #FFF;
-	height:10;
-	width:10;
+	height:5;
+	width:5;
 	text-align:left;
 }
 figure{
