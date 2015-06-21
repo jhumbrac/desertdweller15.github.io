@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Volkhov:400,700italic,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Lekton:400,400italic);
 *{ 
 	padding:0;
 	margin:0;
@@ -19,16 +21,16 @@ nav a {
 	
 }
 
-h1 {
+h1{
 	background-color: #FFF;
 	font-size:4em;
-	font-family:georgia, serif;
+	font-family: 'Volkhov', serif;
 }
 p {
 	background-color: #FFF;
 	margin:1;
 	font-size:3em;
-	font-family:georgia, serif;
+	font-family: 'Lekton', sans-serif;
 }
 br{
 	background-color: #FFF;
@@ -38,7 +40,7 @@ h2{
 	background-color: #FFF;
 	margin:1;
 	font-size:3em;
-	font-family:georgia, serif;
+	font-family: 'Volkhov', serif;
 }
 div {
 	background-color: #FFF;
