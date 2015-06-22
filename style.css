@@ -14,7 +14,7 @@ body {
 nav a {
 	color: rgba(248, 248, 248,.5);
 	border-style: solid;
-	border-color: #000000;
+	border-color: #000;
 	border-width: 5px;
 	font-family:helvetica, arial, sans-serif;
 	font-size:4em;
@@ -23,19 +23,20 @@ nav a {
 
 h1{
 	background-color: #FFF;
+	margin:3;
 	font-size:4em;
 	font-family: 'Volkhov', serif;
 }
 p {
 	background-color: #FFF;
-	margin:1;
+	margin:3;
 	font-size:2em;
 	font-family: 'Lekton', sans-serif;
 }
 
 h2{
 	background-color: #FFF;
-	margin:1;
+	margin:3;
 	font-size:2em;
 	font-family: 'Volkhov', serif;
 }
@@ -45,12 +46,7 @@ div {
 	width:5;
 	text-align:left;
 }
-figure{
-	background-color: #FFF;
-	height:10;
-	width:10;
-	text-align:right;
-}
+
 section{
 	background-color: #FFF;
 } 
