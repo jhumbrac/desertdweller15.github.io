@@ -1,7 +1,8 @@
+
 @import url(http://fonts.googleapis.com/css?family=Volkhov:400,700italic,700,400italic);
 @import url(http://fonts.googleapis.com/css?family=Lekton:400,400italic);
 *{ 
-	padding:0;
+	padding: 1 2 3 4;
 	margin:0;
 	box-sizing:border-box;
 }
@@ -26,6 +27,7 @@ h1{
 	margin:3;
 	font-size:4em;
 	font-family: 'Volkhov', serif;
+	
 }
 p {
 	background-color: #FFF;
@@ -42,8 +44,8 @@ h2{
 }
 div {
 	background-color: #FFF;
-	height:5;
-	width:5;
+	height:4;
+	width:3;
 	text-align:left;
 }
 
