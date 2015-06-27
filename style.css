@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Volkhov:400,700italic,700,400italic);
 @import url(http://fonts.googleapis.com/css?family=Lekton:400,400italic);
 *{ 
-	padding: 1 2 3 4;
+	padding:0;
 	margin:0;
 	box-sizing:border-box;
 }
@@ -12,11 +12,9 @@ body {
 	font-family:helvetica, arial, sans-serif;
 	font-size:18px;
 }
+
 nav a {
 	color: rgba(248, 248, 248,.5);
-	border-style: solid;
-	border-color: #000;
-	border-width: 5px;
 	font-family:helvetica, arial, sans-serif;
 	font-size:4em;
 	
@@ -24,23 +22,23 @@ nav a {
 
 h1{
 	background-color: #FFF;
-	margin:3;
 	font-size:4em;
 	font-family: 'Volkhov', serif;
+	line-height: 1.5;
 	
 }
 p {
 	background-color: #FFF;
-	margin:3;
-	font-size:2em;
+	font-size:3em;
 	font-family: 'Lekton', sans-serif;
+	line-height: 1.5;
 }
 
 h2{
 	background-color: #FFF;
-	margin:3;
-	font-size:2em;
+	font-size:3em;
 	font-family: 'Volkhov', serif;
+	line-height: 1.5;
 }
 div {
 	background-color: #FFF;
@@ -49,6 +47,6 @@ div {
 	text-align:left;
 }
 
-section{
+#contact{
 	background-color: #FFF;
 } 

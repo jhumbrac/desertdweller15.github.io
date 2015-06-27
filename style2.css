@@ -1,3 +1,5 @@
+
+@import url(http://fonts.googleapis.com/css?family=Volkhov:400,700italic,700,400italic);
 *{ 
 	padding:0;
 	margin:0;
@@ -11,36 +13,30 @@ body {
 }
 nav a {
 	color: rgba(248, 248, 248,.5);
-	border-style: solid;
-	border-color: #000000;
-	border-width: 5px;
 	font-family:helvetica, arial, sans-serif;
 	font-size:4em;
 	
 }
-
-
 h1{
 	background-color: #FFF;
-	margin:1;
-	font-size:3em;
-	font-family:georgia, serif;
+	margin:3;
+	font-size:4em;
+	font-family: 'Volkhov', serif;
+	
 }
-
-section{
-	background-color: #FFF;
-} 
-
 
 p {
 	background-color: #FFF;
-	margin:1;
+	height:4;
+	width:3;
+	font-size:2em;
+	font-family:
+}
+
+
+h2{
+	background-color: #FFF;
+	margin:0;
 	font-size:3em;
 	font-family:georgia, serif;
-}
-i{
-	background-color: #FFF;
-	margin:1;
-	font-size:2em;
-	font-family:georgia, serif;	
 }
