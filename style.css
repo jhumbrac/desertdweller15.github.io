@@ -22,6 +22,9 @@ nav a {
 
 h1{
 	background-color: #FFF;
+	margin:2 2 2 2;
+	border-width: 2 2 2 2;
+	padding:1 1 1 1;
 	font-size:4em;
 	font-family: 'Volkhov', serif;
 	line-height: 2;
@@ -29,6 +32,9 @@ h1{
 }
 p {
 	background-color: #FFF;
+	margin:2 2 2 2;
+	border-width: 2 2 2 2;
+	padding:1 1 1 1;
 	font-size:3em;
 	font-family: 'Lekton', sans-serif;
 	line-height: 2;
@@ -36,6 +42,9 @@ p {
 
 h2{
 	background-color: #FFF;
+	margin:2 2 2 2;
+	border-width: 2 2 2 2;
+	padding:1 1 1 1;
 	font-size:3em;
 	font-family: 'Volkhov', serif;
 	line-height: 2;
