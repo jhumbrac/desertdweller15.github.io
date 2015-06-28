@@ -13,9 +13,9 @@ body {
 }
 nav a {
 	color: rgba(248, 248, 248,.5);
-	margin:1em 1em 1em 1em;
-	border-width: 1em 1em 1em 1em;
-	padding:1em 1em 1em 1em;
+	margin:.5em .5em .5em .5em;
+	border-width:.5em .5em .5em .5em;
+	padding:.5em .5em .5em .5em;
 	text-align:center;
 	font-family:helvetica, arial, sans-serif;
 	font-size:4em;
@@ -23,18 +23,15 @@ nav a {
 }
 h1{
 	background-color: #FFF;
+	padding:.8em;
 	font-size:4em;
 	font-family: 'Volkhov', serif;
-	margin:2 2 2 2;
-	border-width: 2 2 2 2;
-	padding:1 1 1 1;
 	
 }
 
 p {
 	background-color: #FFF;
-	height:4;
-	width:3;
+	padding:1em;
 	font-size:3em;
 	font-family:
 	margin:2 2 2 2;
@@ -45,7 +42,6 @@ p {
 
 li{
 	background-color: #FFF;
-	margin:0;
 	font-size:2em;
 	font-family:georgia, serif;
 	
@@ -53,7 +49,7 @@ li{
 
 h2{
 	background-color: #FFF;
-	margin:0;
+	padding:1em;
 	font-size:3em;
 	font-family:georgia, serif;
 	margin:2 2 2 2;
