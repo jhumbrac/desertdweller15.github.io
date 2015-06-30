@@ -49,10 +49,11 @@ h2{
 	padding:1em;
 	font-size:3em;
 	font-family: 'Volkhov', serif;
-	line-height: .2em;
+	line-height:.2em;
 }
 div {
 	height:2em 2em 2em 2em;
 	width:2em 2em 2em 2em;
  	background-color: #FFF;
+ 	
 }

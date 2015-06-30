@@ -44,10 +44,10 @@ p {
 	
 }
 
-
-li{
+ul{
 	background-color: #FFF;
-	margin: auto;
+	float: none;
+	text-align:center; 
 	font-size:3em;
 	font-family:georgia,serif;
 
