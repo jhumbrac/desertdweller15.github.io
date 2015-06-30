@@ -14,11 +14,10 @@ body {
 }
 
 nav a {
-	color: rgba(248, 248, 248,.5);
 	margin:.5em .5em .5em .5em;
 	border-width:.5em .5em .5em .5em;
 	padding:.5em .5em .5em .5em;
-	text-align:center;
+	color: rgba(248, 248, 248,.5);text-align:center;
 	font-family:helvetica, arial, sans-serif;
 	font-size:4em;
 	
@@ -53,12 +52,7 @@ h2{
 	line-height: .2em;
 }
 div {
-	background-color: #FFF;
-	height:4;
-	width:3;
-	text-align:left;
+	height:2em 2em 2em 2em;
+	width:2em 2em 2em 2em;
+ 	background-color: #FFF;
 }
-
-#contact{
-	background-color: #FFF;
-} 
