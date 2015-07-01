@@ -12,14 +12,17 @@ body {
 	font-family:helvetica, arial, sans-serif;
 	font-size:20px;
 }
-nav a {
-	color: rgba(248, 248, 248,.5);
-	margin:.5em .5em .5em .5em;
-	border-width:.5em .5em .5em .5em;
-	padding:.5em .5em .5em .5em;
+nav {
+	padding:1em;
 	text-align:center;
+	font-size:2em;
+}
+nav a {
+	margin:.5em;
+	border-width:.5em;
+	padding:.5em;
+	color: rgba(248, 248, 248,.5);
 	font-family:helvetica, arial, sans-serif;
-	font-size:4em;
 }
 
 nav a:hover{
@@ -29,7 +32,6 @@ nav a:hover{
 
 
 h1{
-	background-color: #FFF;
 	padding:.8em;
 	font-size:4em;
 	font-family: 'Volkhov', serif;
@@ -37,7 +39,6 @@ h1{
 }
 
 p {
-	background-color: #FFF;
 	padding:1em;
 	font-size:3em;
 	font-family:'Lekton', sans-serif;
@@ -45,7 +46,7 @@ p {
 }
 
 ul{
-	background-color: #FFF;
+	
 	float: none;
 	text-align:center; 
 	font-size:3em;
@@ -54,13 +55,17 @@ ul{
 }
 
 h2{
-	background-color: #FFF;
+	
 	padding:1em;
 	font-size:3em;
 	font-family:font-family: 'Volkhov', serif;
 	
 }
 
+.wrapper {
+	background-color:#fff;
+	max-width:100em;
+	margin:auto;
 
 div a:hover{
 
