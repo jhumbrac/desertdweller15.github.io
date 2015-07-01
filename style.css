@@ -12,9 +12,9 @@ body {
 	font-size:18px;
 }
 nav {
-	padding:1em;
+	
 	text-align:center;
-	font-size:2em;
+	padding:1em;
 }
 nav a {
 	margin:.5em;
@@ -22,6 +22,7 @@ nav a {
 	padding:.5em;
 	color: rgba(248, 248, 248,.5);
 	font-family:helvetica, arial, sans-serif;
+	font-size:2em; 
 }
 
 nav a:hover{
@@ -32,11 +33,11 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom:.5em;
 }
 h1{
-	font-size:5em;
+	font-size:4em;
 }
 
 h2{
-	font-size:4em;
+	font-size:3em;
 }
 p {
 	font-size:2em;
@@ -44,13 +45,14 @@ p {
 }
 .wrapper {
 	background-color:#fff;
-	max-width:100em;
+	max-width:120em;
 	margin:auto;
 }
 .clearfix:after { 
 	content: "."; 
 	visibility: hidden; 
 	display: block; 
-	height: 0; 
+	height: 0;
+	float:left; 
 	clear: both;
 }
