@@ -15,6 +15,7 @@ nav a {
 nav a:hover{
 	color:rgb(255, 255, 255);
 }
+
 .wrapper {
 	max-width:150em;
 	margin:auto;
