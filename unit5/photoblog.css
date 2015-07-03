@@ -1,8 +1,16 @@
-*{ 
-	background-color:#fff; 
+@import url(http://fonts.googleapis.com/css?family=Volkhov:400,700italic,700,400italic);
+@import url(http://fonts.googleapis.com/css?family=Lekton:400,400italic);
+*{  
 	padding:0;
 	margin:0;
 	box-sizing:border-box;
+	
+}
+body { 
+	background-color:#A0A0A0;
+	color:#333;
+	font-family:'Lekton', sans-serif;
+	font-size:18px;	
 }
 
 nav {
@@ -22,8 +30,37 @@ nav a {
 nav a:hover{
 	color:rgb(153, 153, 0);
 }
+h1,h2{
+	font-family: 'Volkhov', serif;
+	margin-bottom:.5em;
+}
+
+h1{
+	font-size:4em;
+}
+
+h2{
+	font-size:3em;
+}
+p {
+	font-size:2em;
+	line-height: 1.2em;
+	font-family:'Lekton', sans-serif;
+	
+}
 
 .wrapper { 
+	background-color:#fff;
 	max-width:150em;
 	margin:auto;
+
+}
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	padding:1em;
+	margin:1em;
+	float:left; 
+	clear: both;
 }
