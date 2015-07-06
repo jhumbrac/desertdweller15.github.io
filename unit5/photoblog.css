@@ -48,6 +48,13 @@ p {
 
 }
 
+footer{
+	padding:1em;
+    margin:1em;
+    text-align:center;
+
+}
+
 .wrapper { 
 	background-color:#fff;
 	max-width:150em;
