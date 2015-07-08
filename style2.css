@@ -1,16 +1,16 @@
 
 @import url(http://fonts.googleapis.com/css?family=Volkhov:400,700italic,700,400italic);
-@import url(http://fonts.googleapis.com/css?family=Lekton:400,400italic);
+@import url(http://fonts.googleapis.com/css?family=Average+Sans);
 *{ 
 	padding:0;
-	margin:0;
+	margin:.3em;
 	box-sizing:border-box;
 }
 body { 
 	background-color: #921414;
 	color:#333;
 	font-family:helvetica, arial, sans-serif;
-	font-size:20px;
+	font-size:18px;
 }
 nav {
 	text-align:center;
@@ -33,7 +33,7 @@ nav a:hover{
 
 h1,h2{
 	padding:.8em;
-	font-size:4em;
+	font-size:3em;
 	font-family: 'Volkhov', serif;
 	
 }
@@ -41,7 +41,7 @@ h1,h2{
 p {
 	padding:1em;
 	font-size:2em;
-	font-family:'Lekton', sans-serif;
+	font-family: 'Average Sans', sans-serif;
 	
 }
 

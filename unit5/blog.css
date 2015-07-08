@@ -39,6 +39,9 @@ p {
 	font-family:'Lekton', sans-serif;
 	
 }
+.img-circle {
+    border-radius: 50%;
+}
 
 footer{
 	padding:1em;
