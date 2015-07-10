@@ -17,9 +17,9 @@ nav {
 	padding:1em;
 }
 nav a {
-	margin:.5em;
-	border-width:.5em;
-	padding:.5em;
+	margin:.3em;
+	border-width:.3em;
+	padding:.3em;
 	color: rgba(248, 248, 248,.5);
 	font-family:helvetica, arial, sans-serif;
 	font-size:2em;
