@@ -41,9 +41,13 @@ h1,h2{
 
 
 iframe{
+	border-color:#000066;
+	border-style:solid;
+	border-width:1em;
 	width:800px;
 	height:500px;
 }
+
 
 p {
 	padding:1em;
@@ -59,13 +63,20 @@ ul{
 	text-decoration: none;
 }
 
+div a:hover{
+
+	color:rgb(255, 153, 0);
+}
 .wrapper {
 	background-color:#fff;
 	max-width:120em;
 	margin:auto;
 }
-
-div a:hover{
-
-	color:rgb(255, 153, 0);
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0;
+	float:left; 
+	clear: both;
 }
