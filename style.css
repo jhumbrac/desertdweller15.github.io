@@ -42,6 +42,11 @@ img{
 	width:400px;
 	height:390px;
 }
+button{
+	width:200px;
+	height:50px;
+	font-size:1em;  
+}
 .wrapper {
 	background-color:#fff;
 	max-width:120em;
