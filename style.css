@@ -21,7 +21,8 @@ nav a {
 	padding:.5em;
 	color: rgba(248, 248, 248,.5);
 	font-family:helvetica, arial, sans-serif;
-	font-size:2em; 
+	font-size:2em;
+	text-decoration: none;
 }
 
 nav a:hover{
@@ -35,6 +36,11 @@ h1, h2 {
 
 p {
 	font-size:2em;
+}
+img{
+	padding:.5em;
+	width:400px;
+	height:390px;
 }
 .wrapper {
 	background-color:#fff;

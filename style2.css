@@ -3,7 +3,7 @@
 @import url(http://fonts.googleapis.com/css?family=Average+Sans);
 *{ 
 	padding:0;
-	margin:.3em;
+	margin:.2em;
 	box-sizing:border-box;
 }
 body { 
@@ -22,7 +22,8 @@ nav a {
 	padding:.5em;
 	color: rgba(248, 248, 248,.5);
 	font-family:helvetica, arial, sans-serif;
-	font-size:2em; 
+	font-size:2em;
+	text-decoration: none; 
 }
 
 nav a:hover{
@@ -46,12 +47,10 @@ p {
 }
 
 ul{
-	
-	float: none;
-	text-align:center; 
 	font-size:2em;
 	font-family:georgia,serif;
-
+	text-align:center; 
+	text-decoration: none;
 }
 
 .wrapper {

@@ -8,8 +8,8 @@
 body { 
 	background-color:#A0A0A0;
 	color:#333;
-	font-family:'Lekton', sans-serif;
 	font-size:18px;	
+	font-family:helvetica, arial, sans-serif;
 }
 
 nav {
@@ -20,25 +20,25 @@ nav {
 nav a {
 	color:#FFF;
 	padding:.5em;
-    margin:.5em;
-	font-family:helvetica, arial, sans-serif;
-	font-size:2em; 
+	margin:.5em;
 }
 nav a:hover{
 	color:rgb(153, 153, 0);
 }
+footer{	
+	padding:2em;
+	text-align:center;
 
+}
 h2{
-text-align:center;
-font-size:3em;
+	text-align:center;
+	font-size:3em;
 }
 
 p {
-	font-size:2em;
 	line-height: 1.2em;
-	font-family:'Lekton', sans-serif;
-	
 }
+<<<<<<< HEAD
 .img-circle {
     border-radius: 50%;
 }
@@ -50,9 +50,17 @@ footer{
 
 }
 
+=======
+>>>>>>> origin/master
 .wrapper { 
 	background-color:#fff;
-	max-width:150em;
+	max-width:70em;
 	margin:auto;
-
+}
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
 }
