@@ -44,8 +44,8 @@ img{
 }
 
 #mj:hover {
--webkit-transform:translate(-30px);
-    transform:translate(-30px);
+-webkit-transform:translate(30px);
+    transform:translate(30px);
     
 }
 
