@@ -1,9 +1,6 @@
 $(document).ready(function(){
-    $("button").click(function(){
-    $("img").fadeOut(2000)
+  $("button").click(function(){
+    $('img').fadeOut();
+
     });
 
-$(document).ready(function(){
-    $("button").click(function(){
-    $("img").fadeIn(2000)
-    });
