@@ -6,35 +6,41 @@
 	box-sizing:border-box;
 }
 body { 
-	background-color:rgb(0, 0, 76);
+	background-color:#4C4C4C;
+	background:url("testpics/seattle.png");
+	background-repeat:no-repeat;
+    background-size:cover;
 	font-family: 'Average Sans', sans-serif;
 	font-size:20px;
+	background-repeat:none; 
 }
+nav {
+	text-align:center;
+	padding:1em;
+}
+nav p {
+	margin:.3em;
+	border-width:.3em;
+	padding:.3em;
+	color:#FFF;
+	font-family:helvetica, arial, sans-serif;
+	font-size:5em;
+	text-decoration: none;
+}
+
  p{
-	font-color:#00FF00;
+	color:#7A1F00;
 	font-size: 4em;
 	text-align:center;
 	padding:1em;
 }
 
-:hover{
-	color:rgb(248, 248, 248);
-}
-
-
-img{
-	padding:.5em;
-	width:1000px;
-	height:900px;
-}
-
-button{
-	width:200px;
-	height:50px;
-	font-size:1em; 
+iframe{
+	width:900px;
+	height:600px;
 }
 .wrapper {
-	background-color:rgb(0, 255, 0);
+	background-color:rgba(233, 233, 233,.7);
 	max-width:120em;
 	margin:auto;
 }
