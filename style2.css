@@ -35,8 +35,7 @@ nav a:hover{
 h1,h2{
 	padding:.8em;
 	font-size:3em;
-	font-family: 'Volkhov', serif;
-	
+	font-family: 'Volkhov', serif;	
 }
 
 
@@ -77,7 +76,7 @@ a{
 .wrapper {
 	background-color:#fff;
 	max-width:120em;
-	margin:auto;
+	margin:0 auto;
 }
 .clearfix:after { 
 	content: "."; 

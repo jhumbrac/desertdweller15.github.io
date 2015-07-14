@@ -70,3 +70,13 @@ aside ul{
 	float:left; 
 	clear: both;
 }
+  @media (max-width: 800px) {
+    float: none; 
+    width: 100%;
+aside{
+	float:left;
+}
+
+}
+ 
+  

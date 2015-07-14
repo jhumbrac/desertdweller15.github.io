@@ -55,7 +55,7 @@ button{
 .wrapper {
 	background-color:#FFF;
 	max-width:120em;
-	margin:auto;
+	margin:0 auto;
 }
 .clearfix:after { 
 	content: "."; 
