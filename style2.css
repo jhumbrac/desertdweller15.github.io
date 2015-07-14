@@ -67,9 +67,12 @@ ul{
 	text-decoration: none;
 }
 
-div a:hover{
+ul a{
 
-	color:rgb(255, 153, 0);
+	text-decoration: none; 
+}
+a{
+	text-decoration: none; 
 }
 .wrapper {
 	background-color:#fff;
