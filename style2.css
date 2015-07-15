@@ -1,23 +1,8 @@
-Skip to content
-This repository  
-Pull requests
-Issues
-Gist
- @desertdweller15
- Unwatch 1
-  Star 0
-  Fork 1
-desertdweller15/desertdweller15.github.io
- branch: master  desertdweller15.github.io/style2.css
-@desertdweller15desertdweller15 21 hours ago 7/14/15 final upload
-1 contributor
-RawBlameHistory     85 lines (76 sloc)  1.266 kB
-
 @import url(http://fonts.googleapis.com/css?family=Volkhov:400,700italic,700,400italic);
 @import url(http://fonts.googleapis.com/css?family=Average+Sans);
 *{ 
 	padding:0;
-	margin:.2em;
+	margin:.1em;
 	box-sizing:border-box;
 }
 body { 
@@ -45,11 +30,14 @@ nav a:hover{
 	color:rgb(248, 248, 248);
 }
 
+*+*{
+	margin-top:.2em;
+}
 
-h1,h2{
-	padding:.8em;
-	font-size:3em;
-	font-family: 'Volkhov', serif;	
+h1, h2 {
+	font-size: 3em;
+	font-family: 'Volkhov', serif;
+	margin-bottom: .5em;
 }
 iframe{
 	background-color:#00FF00;
@@ -65,7 +53,7 @@ figure{
 }
 
 p {
-	padding:1em;
+	padding:.2em;
 	font-size:2em;
 	font-family: 'Average Sans', sans-serif;
 }

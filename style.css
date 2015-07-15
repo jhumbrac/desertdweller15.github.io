@@ -31,10 +31,13 @@ nav a:hover{
 a{
 	text-decoration: none; 
 }
+*+*{
+	margin-top:.2em;
+}
 h1, h2 {
 	font-size: 3em;
 	font-family: 'Volkhov', serif;
-	margin-bottom: 1em;
+	margin-bottom: .5em;
 }
 
 p {
