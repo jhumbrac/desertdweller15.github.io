@@ -64,6 +64,9 @@ ul{
 	text-align:center; 
 	text-decoration: none;
 }
+ul a:hover{
+	color:#FF9933;
+}
 
 ul a{
 
