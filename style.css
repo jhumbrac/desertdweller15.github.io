@@ -2,14 +2,21 @@
 @import url(http://fonts.googleapis.com/css?family=Average+Sans);
 *{ 
 	padding:0;
-	margin:.2em;
+	margin:0;
 	box-sizing:border-box;
+}
+*+*{
+	margin-top:1em;
 }
 body { 
 	background-color:#921414;
 	color:#333;
 	font-family: 'Average Sans', sans-serif;
 	font-size:18px;
+}
+section {
+	border:2px solid black;
+	padding:3em 0;
 }
 nav {
 	text-align:center;
@@ -31,9 +38,6 @@ nav a:hover{
 a{
 	text-decoration: none; 
 }
-*+*{
-	margin-top:.2em;
-}
 h1, h2 {
 	font-size: 3em;
 	font-family: 'Volkhov', serif;
@@ -53,12 +57,12 @@ img{
 button{
 	background-color:rgba(71, 71, 255,.5);
 	width:200px;
-	height:50px;
+	padding:1em;
 	font-size:1em; 
 }
 .wrapper {
 	background-color:#FFF;
-	max-width:120em;
+	max-width:1200px;
 	margin:0 auto;
 }
 .clearfix:after { 
@@ -66,6 +70,5 @@ button{
 	visibility: hidden; 
 	display: block; 
 	height: 0;
-	float:left; 
 	clear: both;
 }
